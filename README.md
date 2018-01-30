@@ -1,7 +1,8 @@
 # python_projects
-
-* *entertainment_center.py*
+Source of learning: Programming Foundations with Python (Udacity)
 * *media.py* : Class definitions
+* *entertainment_center.py*
 
-* *inheritance.py*
+* *inheritance.py* : Learn the concept of inheritance in OOP
+
 
