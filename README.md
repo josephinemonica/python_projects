@@ -2,3 +2,6 @@
 
 * *entertainment_center.py*
 * *media.py* : Class definitions
+
+* *inheritance.py*
+
